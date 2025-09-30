@@ -1,9 +1,8 @@
-
 # PySpark Data Processing and Automation Project for Reliance Mart Data
 
 
 #### Project Overview
-This project is a comprehensive data processing pipeline built using PySpark and AWS S3. It involves reading data from S3, processing it locally, and then uploading the processed data back to S3. The main goals are to handle data efficiently, manage errors and edge cases, and ensure data integrity throughout the ETL (Extract, Transform, Load) process.
+This project is a comprehensive data processing pipeline built using **PySpark** and **AWS S3**. It involves reading data from S3, processing it locally, and then uploading the processed data back to S3. The main goals are to handle data efficiently, manage errors and edge cases, and ensure data integrity throughout the **ETL (Extract, Transform, Load)** process.
 
 #### Table of Contents
 1. [Project Structure](#project-structure)
